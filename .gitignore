@@ -3,3 +3,6 @@
 ################################################################################
 
 /.vs/loja/v17
+/src/IdentityServer/obj
+/src/IdentityServer/bin/Debug/net6.0
+/.vs/loja/config
