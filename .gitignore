@@ -6,3 +6,6 @@
 /src/IdentityServer/obj
 /src/IdentityServer/bin/Debug/net6.0
 /.vs/loja/config
+/.vs
+/src/WebClient/obj
+/src/WebClient/bin/Debug/net6.0

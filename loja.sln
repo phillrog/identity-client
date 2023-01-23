@@ -5,6 +5,8 @@ VisualStudioVersion = 17.2.32616.157
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IdentityServer", "src\IdentityServer\IdentityServer.csproj", "{1EEA4850-F5D5-4366-A995-8A8BFFB29BF6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebClient", "src\WebClient\WebClient.csproj", "{DD3635F6-10EF-45CA-ADD3-18270A30CFBE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{1EEA4850-F5D5-4366-A995-8A8BFFB29BF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1EEA4850-F5D5-4366-A995-8A8BFFB29BF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1EEA4850-F5D5-4366-A995-8A8BFFB29BF6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DD3635F6-10EF-45CA-ADD3-18270A30CFBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD3635F6-10EF-45CA-ADD3-18270A30CFBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD3635F6-10EF-45CA-ADD3-18270A30CFBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD3635F6-10EF-45CA-ADD3-18270A30CFBE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
